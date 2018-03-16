@@ -1,4 +1,4 @@
-# teach_R
+# R_demo
 There are some examples about statistic or r problems, hoping you can get answer from scripts.
 
 Problem list:
